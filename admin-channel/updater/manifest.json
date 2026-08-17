@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "product": "kimimall_admin_updater",
+  "version": "1.2.0",
+  "sha256": "0dac3e578150eaa6bb2287b296d1aff96661a986bfa3db2edee02ac165416d7e",
+  "url": "https://raw.githubusercontent.com/prmsdudk-hub/kimimall-smartstore-updates/main/admin-channel/updater/updater_core.ps1"
+}
