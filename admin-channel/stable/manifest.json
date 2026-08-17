@@ -1,0 +1,114 @@
+{
+  "schema": 1,
+  "product": "kimimall_admin",
+  "channel": "stable",
+  "version": "1.2.0",
+  "published_at": "2026-08-17T15:44:16.914271+00:00",
+  "notes": "",
+  "base_url": "https://raw.githubusercontent.com/prmsdudk-hub/kimimall-smartstore-updates/main",
+  "files": [
+    {
+      "path": "App/admin_app.pyw",
+      "source": "admin-channel/stable/files/App/admin_app.pyw.b64",
+      "sha256": "d53d0b6602dd5ee69a755c0953133955c386ae9552d831a2706f1c6b10f2621c",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/admin_extract.py",
+      "source": "admin-channel/stable/files/App/admin_extract.py.b64",
+      "sha256": "ce0330b1957d7bed8595d0a2f43efc453deb12638683f309acaab0bff469539d",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/cache/manifests/har1.json",
+      "source": "admin-channel/stable/files/App/engine/cache/manifests/har1.json.b64",
+      "sha256": "6681065e1881e701d736dd4871b67a0c2cbb2b8dc236bb912e723fb6e8d65367",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/cache/manifests/har99.json",
+      "source": "admin-channel/stable/files/App/engine/cache/manifests/har99.json.b64",
+      "sha256": "451ceff726c963cea1a9c24a3563ef9bff379c8a893fa264029de8a375c05af3",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/cache/security/har1.txt",
+      "source": "admin-channel/stable/files/App/engine/cache/security/har1.txt.b64",
+      "sha256": "37d1302715be8800cb7730a3bfa2418eb8e4d93652f024c5c74c07a231d0d198",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/cache/security/har99.txt",
+      "source": "admin-channel/stable/files/App/engine/cache/security/har99.txt.b64",
+      "sha256": "7d8739d7d8b83dd124ab5fe3c86ff2d2ca9601a70e675e7ca24294d16976412a",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/config.json",
+      "source": "admin-channel/stable/files/App/engine/config.json.b64",
+      "sha256": "e6bf3bdb7a4d6929cef7b6a97b8c151cc4d70be4736884b3b5f3c018e73eb56f",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/main.py",
+      "source": "admin-channel/stable/files/App/engine/main.py.b64",
+      "sha256": "b0a1057d5adae84261ac167b1456d905ad7a091c85f10c36eae787bea180bb74",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/offline_guard.py",
+      "source": "admin-channel/stable/files/App/engine/offline_guard.py.b64",
+      "sha256": "750372f91ee471ab00fb9ea1f09fad1cbf1b21f222a29c8814cdc05c0da987f6",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/prefetch_ocr.py",
+      "source": "admin-channel/stable/files/App/engine/prefetch_ocr.py.b64",
+      "sha256": "4410b6175cf887440bdf00c023b391b77fed68dc2ea94f4ead7e4a28f2ba0438",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/product_rules.json",
+      "source": "admin-channel/stable/files/App/engine/product_rules.json.b64",
+      "sha256": "ec2f00596f643c3181e6f3c6bfb64bb07cf8994f019df013681c886bee0d8b6a",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/templates/combination_template.xlsx",
+      "source": "admin-channel/stable/files/App/engine/templates/combination_template.xlsx.b64",
+      "sha256": "288785306977b081ef46ae101eda8e232a887a9921c6e116477218809fce1ff1",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/templates/simple_template.xlsx",
+      "source": "admin-channel/stable/files/App/engine/templates/simple_template.xlsx.b64",
+      "sha256": "11e5b120368c3904ea11b2efb8169673b6d25ef3472ba45076f2df00134cfc75",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/v7_engine.py",
+      "source": "admin-channel/stable/files/App/engine/v7_engine.py.b64",
+      "sha256": "09e840faf1057311d2204314e091b57e24a881dc4c8883c958043012fa208fbd",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/engine/VERSION.txt",
+      "source": "admin-channel/stable/files/App/engine/VERSION.txt.b64",
+      "sha256": "4edda0e3219783e73a3f87171adce89ddc6294ae44955e2e5bce8c9e4c15ac58",
+      "encoding": "base64"
+    },
+    {
+      "path": "App/requirements_runtime.txt",
+      "source": "admin-channel/stable/files/App/requirements_runtime.txt.b64",
+      "sha256": "9af76e6c19aa97febec7053ff53d711f02558d3833424776057f4b927b111428",
+      "encoding": "base64"
+    },
+    {
+      "path": "bootstrap.ps1",
+      "source": "admin-channel/stable/files/bootstrap.ps1.b64",
+      "sha256": "e8eef9c0cbf6c81dbeccb04308c7a05eb8378e055be2a68b539bd1c63b17cf07",
+      "encoding": "base64"
+    }
+  ],
+  "delete": []
+}
